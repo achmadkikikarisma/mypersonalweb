@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1440px" height="756px" viewBox="0 0 1440 756" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>Combined Shape</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#FAD961" offset="0%"></stop>
+            <stop stop-color="#F76B1C" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="0%" y1="0%" x2="101.999998%" y2="100.999999%" id="linearGradient-2">
+            <stop stop-color="#3023AE" offset="0%"></stop>
+            <stop stop-color="#C86DD7" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="V3" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M1440,665.523425 C1236.05989,722.535587 987.592972,756 719.5,756 C451.84506,756 203.752098,722.644851 4.26325641e-14,665.80269 L0,0 L1440,0 L1440,665.523425 Z" id="Combined-Shape" fill="#26264A"></path>
+        <circle id="Oval-Copy-12" fill="url(#linearGradient-1)" cx="338" cy="514" r="50"></circle>
+        <circle id="Oval-Copy-13" fill="url(#linearGradient-2)" cx="1250" cy="481" r="17"></circle>
+        <polygon id="Star-Copy-3" fill="#FFFFFF" points="1267 194.282366 1257.59544 204.944272 1264.82934 192.70529 1251.7831 187.055728 1265.65846 190.153527 1267 176 1268.34154 190.153527 1282.2169 187.055728 1269.17066 192.70529 1276.40456 204.944272"></polygon>
+        <polygon id="Star-Copy-4" fill="#FFFFFF" points="955 391.711775 947.946577 399.708204 953.372006 390.528967 943.587322 386.291796 953.993844 388.615145 955 378 956.006156 388.615145 966.412678 386.291796 956.627994 390.528967 962.053423 399.708204"></polygon>
+        <polygon id="Star-Copy-5" fill="#FFFFFF" points="154 247.995605 141.65651 261.989357 151.15101 245.925693 134.027813 238.510643 152.239227 242.576504 154 224 155.760773 242.576504 173.972187 238.510643 156.84899 245.925693 166.34349 261.989357"></polygon>
+    </g>
+</svg>

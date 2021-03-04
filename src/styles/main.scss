@@ -1,0 +1,32 @@
+$font: "Airbnb Cereal App";
+$green: #50E3C2;
+$black: #26264A;
+$white: #FFFFFF;
+
+.h1{
+  
+  margin-left: auto;
+  margin-right: auto;
+}
+.navbar-custom{
+  font-family: $font;
+  font-size: 16px;
+  background-color: $black !important;
+  .navbar-brand{
+    color: $white;
+  }
+  .navbar-menu{
+    .nav-custom{
+      margin-top: auto;
+      margin-bottom: auto;
+      margin-left: auto;
+      margin-right: auto;
+    }
+    .nav-link{
+      font-size: 16px;
+      font-weight: 500;
+      color: $white !important;
+      padding-left:40px ;
+    }
+  }
+}

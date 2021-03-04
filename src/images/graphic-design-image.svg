@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="623px" height="758px" viewBox="0 0 623 758" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>Graphic Design</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#FAD961" offset="0%"></stop>
+            <stop stop-color="#F76B1C" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-2">
+            <stop stop-color="#39E0AD" offset="0%"></stop>
+            <stop stop-color="#4CBCBA" offset="100%"></stop>
+        </linearGradient>
+        <rect id="path-3" x="74" y="120" width="400" height="500" rx="10"></rect>
+        <filter x="-42.5%" y="-26.0%" width="185.0%" height="168.0%" filterUnits="objectBoundingBox" id="filter-4">
+            <feOffset dx="0" dy="40" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="50" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.05 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-5" x="0" y="158" width="200" height="151" rx="10"></rect>
+        <filter x="-42.5%" y="-43.0%" width="185.0%" height="212.6%" filterUnits="objectBoundingBox" id="filter-6">
+            <feOffset dx="0" dy="20" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="25" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.05 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-7" x="219" y="435" width="300" height="200" rx="10"></rect>
+        <filter x="-28.3%" y="-32.5%" width="156.7%" height="185.0%" filterUnits="objectBoundingBox" id="filter-8">
+            <feOffset dx="0" dy="20" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="25" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.05 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <linearGradient x1="0%" y1="0%" x2="100%" y2="81.6049865%" id="linearGradient-9">
+            <stop stop-color="#6CC4EA" offset="0%"></stop>
+            <stop stop-color="#3836D0" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="0%" y1="0%" x2="100%" y2="100%" id="linearGradient-10">
+            <stop stop-color="#F8A4A4" offset="0%"></stop>
+            <stop stop-color="#FF9B62" offset="100%"></stop>
+        </linearGradient>
+        <path d="M504.749929,1.20007849 C505.831164,0.575079977 507.187423,1.48755339 506.974899,2.75006258 L502.47491,29.7499982 C502.312435,30.7062337 501.299925,31.2625068 500.412415,30.8875077 L492.624958,27.6250033 L488.656217,32.4562296 C487.78122,33.5250136 485.999974,32.9437162 485.999974,31.4687441 L485.999974,26.4375061 L501.056212,8.09379984 C501.349913,7.73753849 500.862426,7.2687896 500.518677,7.57506329 L482.562482,23.4000378 L475.91876,20.6125078 C474.793763,20.1375333 474.650025,18.5625249 475.781248,17.912502 L504.749929,1.20007849 Z" id="path-11"></path>
+        <linearGradient x1="0%" y1="0%" x2="100%" y2="81.6049865%" id="linearGradient-12">
+            <stop stop-color="#6F6CEA" offset="0%"></stop>
+            <stop stop-color="#5C36D0" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="100%" y1="1232.48968%" x2="0%" y2="1232.48968%" id="linearGradient-13">
+            <stop stop-color="#6F6CEA" offset="0%"></stop>
+            <stop stop-color="#5C36D0" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="V3" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(-130.000000, -2677.000000)">
+            <rect fill="#FFFFFF" x="0" y="0" width="1440" height="4607"></rect>
+            <g id="Graphic-Design" transform="translate(180.000000, 2676.000000)">
+                <circle id="Oval-Copy-10" fill="url(#linearGradient-1)" cx="458" cy="134" r="50"></circle>
+                <circle id="Oval-Copy-11" fill="url(#linearGradient-2)" cx="90" cy="608" r="50"></circle>
+                <g id="Rectangle">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-4)" xlink:href="#path-3"></use>
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-3"></use>
+                </g>
+                <path d="M165.539232,248.748679 C288.042085,293.803502 349.293511,290.819022 349.293511,239.795239 C349.293511,163.259564 468.921675,126.65252 456.396137,193.051788 C443.870599,259.451055 317.789464,176.044891 394.16741,108.560076 C445.086041,63.5702002 476.6272,37.7443969 488.790889,31.0826664" id="Path-3" stroke="#A7BDC4" stroke-dasharray="10"></path>
+                <g id="Rectangle">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-6)" xlink:href="#path-5"></use>
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-5"></use>
+                </g>
+                <g id="Rectangle-Copy-8">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-8)" xlink:href="#path-7"></use>
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-7"></use>
+                </g>
+                <rect id="Rectangle" fill="url(#linearGradient-9)" x="424" y="259" width="100" height="100" rx="10"></rect>
+                <rect id="Rectangle-Copy-9" fill="url(#linearGradient-10)" x="24" y="359" width="100" height="100" rx="10"></rect>
+                <text id="PS" font-family="AirbnbCerealApp-Bold, Airbnb Cereal App" font-size="24" font-weight="bold" letter-spacing="1" fill="#FFFFFF">
+                    <tspan x="458" y="318">P</tspan>
+                    <tspan x="473.376" y="318">S</tspan>
+                </text>
+                <text id="AI" font-family="AirbnbCerealApp-Bold, Airbnb Cereal App" font-size="24" font-weight="bold" letter-spacing="1" fill="#FFFFFF">
+                    <tspan x="61" y="418">AI</tspan>
+                </text>
+                <polygon id="Path-2" fill="url(#linearGradient-2)" points="20 289 74.1181537 228 123.135263 283.250289 151.164561 251.656691 180 289"></polygon>
+                <circle id="Oval" fill="url(#linearGradient-1)" cx="160" cy="198" r="20"></circle>
+                <g id="paper-plane">
+                    <use fill="#FFFFFF" xlink:href="#path-11"></use>
+                    <use fill="url(#linearGradient-2)" xlink:href="#path-11"></use>
+                </g>
+                <rect id="Rectangle" fill="url(#linearGradient-12)" x="240" y="475" width="120" height="120" rx="10"></rect>
+                <g id="Group-9" transform="translate(373.000000, 497.000000)" fill="url(#linearGradient-13)">
+                    <rect id="Rectangle" x="0" y="0" width="116" height="4" rx="2"></rect>
+                    <rect id="Rectangle-Copy-29" x="0" y="24" width="116" height="4" rx="2"></rect>
+                    <rect id="Rectangle-Copy-30" x="0" y="48" width="116" height="4" rx="2"></rect>
+                    <rect id="Rectangle-Copy-31" x="0" y="72" width="116" height="4" rx="2"></rect>
+                </g>
+                <path d="M298.154649,523.834414 C298.707764,522.714132 300.296841,522.728185 300.845286,523.834414 L303.906207,530.040667 L310.75461,531.039093 C311.982741,531.217209 312.474928,532.731259 311.584305,533.598444 L306.62962,538.426557 L307.801492,545.246854 C308.012429,546.4797 306.714031,547.398429 305.626525,546.826547 L299.499968,543.606233 L293.373411,546.826547 C292.285904,547.403099 290.987506,546.4797 291.198443,545.246854 L292.370316,538.426557 L287.415631,533.598444 C286.525008,532.731259 287.017194,531.217209 288.245325,531.039093 L295.093728,530.040667 L298.154649,523.834414 Z" id="STAR" fill="#FFFFFF"></path>
+            </g>
+        </g>
+    </g>
+</svg>

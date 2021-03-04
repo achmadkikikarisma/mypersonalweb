@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1440px" height="369px" viewBox="0 0 1440 369" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>Mask</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="1440" height="369"></rect>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-3">
+            <stop stop-color="#FAD961" offset="0%"></stop>
+            <stop stop-color="#F76B1C" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="0%" y1="0%" x2="101.999998%" y2="100.999999%" id="linearGradient-4">
+            <stop stop-color="#3023AE" offset="0%"></stop>
+            <stop stop-color="#C86DD7" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="V3" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Oval-Copy-12">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <use id="Mask" fill="#26264A" xlink:href="#path-1"></use>
+            <circle id="Oval-Copy-7" fill="url(#linearGradient-3)" mask="url(#mask-2)" cx="116" cy="87" r="50"></circle>
+        </g>
+        <circle id="Oval-Copy-13" fill="url(#linearGradient-4)" cx="1300" cy="168" r="17"></circle>
+        <polygon id="Star-Copy-3" fill="#FFFFFF" points="1282 41.2823661 1272.59544 51.9442719 1279.82934 39.7052899 1266.7831 34.0557281 1280.65846 37.1535271 1282 23 1283.34154 37.1535271 1297.2169 34.0557281 1284.17066 39.7052899 1291.40456 51.9442719"></polygon>
+        <polygon id="Star-Copy-4" fill="#FFFFFF" points="1077 233.711775 1069.94658 241.708204 1075.37201 232.528967 1065.58732 228.291796 1075.99384 230.615145 1077 220 1078.00616 230.615145 1088.41268 228.291796 1078.62799 232.528967 1084.05342 241.708204"></polygon>
+        <polygon id="Star-Copy-5" fill="#FFFFFF" points="141 239.995605 128.65651 253.989357 138.15101 237.925693 121.027813 230.510643 139.239227 234.576504 141 216 142.760773 234.576504 160.972187 230.510643 143.84899 237.925693 153.34349 253.989357"></polygon>
+    </g>
+</svg>
